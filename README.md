@@ -26,7 +26,13 @@ Key Features:
 ### Cloning the repository
 
 ```shell
+git clone https://github.com/gouravkundu7370/ElearnApp.git
+```
 
+or
+
+```shell
+git clone git@github.com:gouravkundu7370/ElearnApp.git
 ```
 
 ### Install packages
